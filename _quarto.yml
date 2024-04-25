@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Julia Lucas"
+  navbar:
+    left:
+      - href: intro.qmd
+        text: Home
+      - href: Ford page.qmd
+        text: Dr. Ford K. Lucas
+      - href: Bones page.qmd
+        text: Charles E. Bones
+      - href: Foodways at Fairfield.qmd
+        text: Foodways at Fairfield
+      - about.qmd
+
+format:
+  html:
+    theme: litera # litera bootswatch theme
+    css: bootswatch.styles.css
+    toc: true
+    
+editor: visual
+

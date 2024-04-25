@@ -1,0 +1,14 @@
+---
+title: "Julia Lucas"
+output: html_document
+---
+
+## Introduction
+
+I am a Graduate student at Virginia Tech specializing in 19th century history of Southwest Virginia and the New River Valley. As a native of Montgomery County, my focus began with an interest with my family's history and genealogical research.
+
+I graduated in 2021 from Radford University with a Bachelors of History concentrating on the latter half of the 19th century.
+
+```{r}
+
+```
